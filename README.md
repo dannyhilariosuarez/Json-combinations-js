@@ -2,7 +2,7 @@
 How to know how many unique combinations of cameras are in use by clients.
 
 
-# Run my solution
+# Run my solution using VS
 
 1. At first you need to install NodeJS in your Windows/Macbook. You can install it from here: https://nodejs.org/en/
 2. Open the terminal in VS Code.
